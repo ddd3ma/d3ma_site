@@ -1,0 +1,10 @@
+body {
+  background-color: rgb(0, 0, 0);
+}
+.text_intro {
+  text-align: center;
+  font-size: 45px;
+  font-family: Lobster;
+  color: pink;
+  text-shadow: 4px 4px 1px purple;
+}
